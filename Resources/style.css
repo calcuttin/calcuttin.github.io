@@ -4,7 +4,12 @@ html {
     background-color: black;
 
 }
-
+nav {
+    background-color: cornflowerblue;
+    color: aliceblue;
+    display: inline-block;
+    text-align: end;
+}
 h1 {
     font-size: 50px;
     text-align: center;
