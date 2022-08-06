@@ -61,3 +61,4 @@ const solutionGenerator = () => {
 };
 //to run the code to output to console
 console.log(locationGenerator(),messageGenerator(),solutionGenerator())
+
